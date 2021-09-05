@@ -1,0 +1,35 @@
+{
+  "name": "@yek-plus/maks",
+  "version": "1.0.1",
+  "description": "MAKS connector",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YEK-PLUS/maks.git"
+  },
+  "keywords": [
+    "maks"
+  ],
+  "author": "YEK-PLUS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YEK-PLUS/maks/issues"
+  },
+  "homepage": "https://github.com/YEK-PLUS/maks#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2"
+  },
+  "dependencies": {
+    "jssoup": "0.0.12",
+    "node-fetch": "^2.6.1",
+    "qs": "^6.10.1"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
