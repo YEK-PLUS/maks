@@ -1,6 +1,6 @@
 {
   "name": "@yek-plus/maks",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MAKS connector",
   "main": "lib/index.js",
   "scripts": {
